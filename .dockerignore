@@ -1,0 +1,12 @@
+.git
+.github
+.fleet
+.fleet-deploy.log
+*.log
+.env
+.env.*
+target
+build
+.idea
+.vscode
+.quarkus
